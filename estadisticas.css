@@ -1,0 +1,30 @@
+.estadisticas{
+    background-color: #f7f7f7;
+}
+
+.grafico-dona4{
+    height: 230px !important;
+    width: 360px !important;
+    padding: 0%;
+}
+.dona-4{
+    height: 200px !important;
+    width: 320px !important;
+    padding-left: 5px; 
+}
+
+.ventas-semana{
+    width: 720px !important;
+}
+.grafico-barra{
+    width: 700px;
+}
+
+.gastos-barra{
+    width: 800px !important;
+}
+
+.gastos-mes{
+    width: 850px !important;
+    margin-left: 340px !important;
+}

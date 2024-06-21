@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Helvetica, sans-serif;
+    background: rgb(68, 3, 198);
+    background: linear-gradient(90deg, rgba(84, 0, 210, 0.451) 43%, rgba(16,77,236,0.14049369747899154) 61%);
+    padding: 72px 112px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.caja1{
+display: inline-block;
+justify-content: center;
+flex-direction: column;
+margin: 50px 100px;
+width: 580px;
+}
+
+.imgF{
+    padding: 15px 0 16px;
+
+    width: 300px;
+    margin: -28px;
+    align-content: center;
+}
+
+.subtitulo{
+    padding-top: 10px;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 32px;
+    text-align:start;
+}
+
+.caja2{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.form{
+    display: inline-block;
+    text-align: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    margin: 40px 0 0px;
+    padding: 20px 0 28px;
+    width: 396px;
+}
+
+input{
+    margin-bottom: 8px;
+    border-radius: 6px;
+    width: 321px;
+    height: 34px;
+    border: 1px solid #dddfe2;
+    font-size: 17px;
+    padding: 14px 16px;
+    align-items: center;
+}
+
+.btn1{
+    background-color: #2e017c ;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 38px;
+    padding: 0 16px;
+    width: 250px;
+    color: #fff;
+    font-size: 13px;
+    margin-bottom: 8px;
+    height: 30px !important;
+    margin-left: 70px;
+    
+    
+}
+
+.btn3{
+
+background-color: #d1d6df;
+border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 38px;
+    padding: 0 16px;
+    width: 330px;
+    color: #090909;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.btn2{
+    border: none;
+    background-color: #2e017c;
+    line-height: 38px;
+    border-radius: 6px;
+    padding: 0 16px;
+    width: 330px;
+    color: #ffffff;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+    
+
+
+.url1{
+    color: #111214;
+    font-size: 10px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.line{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    margin: 20px 16px;
+    text-align: center;
+}
+
+
+
+.texto3{
+    display:flex;
+    justify-content: center;
+    border-top: none;
+    color: #1c1e21;
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 0;
+}
+
+.negrilla{
+    color: #1c1e21;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+}
